@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hello Selenium]]>
+    </line>
+    <line>
+      <![CDATA[hello API]]>
+    </line>
+    <line>
+      <![CDATA[hello APPIUM]]>
+    </line>
+    <line>
+      <![CDATA[hello JAVA]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-01T13:40:11 IST" name="Suite" finished-at="2022-09-01T13:40:11 IST" duration-ms="272">
+    <groups>
+    </groups>
+    <test started-at="2022-09-01T13:40:11 IST" name="Test" finished-at="2022-09-01T13:40:11 IST" duration-ms="272">
+      <class name="jankinspro.test2">
+        <test-method signature="t2()[pri:0, instance:jankinspro.test2@732c2a62]" started-at="2022-09-01T13:40:11 IST" name="t2" finished-at="2022-09-01T13:40:11 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello Selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+      </class> <!-- jankinspro.test2 -->
+      <class name="jankinspro.Test1">
+        <test-method signature="t1()[pri:0, instance:jankinspro.Test1@223aa2f7]" started-at="2022-09-01T13:40:11 IST" name="t1" finished-at="2022-09-01T13:40:11 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello JAVA]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+      </class> <!-- jankinspro.Test1 -->
+      <class name="jankinspro.Test4">
+        <test-method signature="t4()[pri:0, instance:jankinspro.Test4@6c130c45]" started-at="2022-09-01T13:40:11 IST" name="t4" finished-at="2022-09-01T13:40:11 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello API]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t4 -->
+      </class> <!-- jankinspro.Test4 -->
+      <class name="jankinspro.Test3">
+        <test-method signature="t3()[pri:0, instance:jankinspro.Test3@50ad3bc1]" started-at="2022-09-01T13:40:11 IST" name="t3" finished-at="2022-09-01T13:40:11 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello APPIUM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+      </class> <!-- jankinspro.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
